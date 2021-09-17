@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6efd173c938340138ede7142b06a7013)](https://www.codacy.com/gh/davi-OD/Airbnb-Clone/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=davi-OD/Airbnb-Clone&amp;utm_campaign=Badge_Grade)
 
+[![GitHub stars](https://img.shields.io/github/stars/davi-OD/Airbnb-Clone?style=for-the-badge)](https://github.com/davi-OD/Airbnb-Clone/stargazers)
+
+[![GitHub issues](https://img.shields.io/github/issues/davi-OD/Airbnb-Clone?style=for-the-badge)](https://github.com/davi-OD/Airbnb-Clone/issues)
