@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 [![code maintainablity](https://codeclimate.com/github/davi-OD/Airbnb-Clone.png)](https://codeclimate.com/github/davi-OD/Airbnb-Clone)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6efd173c938340138ede7142b06a7013)](https://www.codacy.com/gh/davi-OD/Airbnb-Clone/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=davi-OD/Airbnb-Clone&amp;utm_campaign=Badge_Grade)
+
